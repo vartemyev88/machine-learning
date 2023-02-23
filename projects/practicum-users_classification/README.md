@@ -1,4 +1,4 @@
-# [➡ Open this Notebook with nbviewer](#)
+# [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-users_classification/users_classification.ipynb)
 
 # ℹ Recommendation of Tariffs
 
@@ -7,7 +7,7 @@ The mobile operator has discovered that a significant number of its customers ar
 # 🛠 Skills & Tools
 
 `Machine Learning`
-`Classification
+`Classification`
 `Data Visualization`
 `Exploratory Data Analysis`
 `matplotlib` `numpy` `pandas` `seaborn` `sklearn`
