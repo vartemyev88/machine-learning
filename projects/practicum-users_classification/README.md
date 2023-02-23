@@ -18,4 +18,4 @@ The mobile operator has discovered that a significant number of its customers ar
 -   `minutes`: total duration of calls in minutes,
 -   `messages`: number of SMS messages,
 -   `mb_used`: used internet traffic in MB,
--   `is_ultra`: which tariff the user used during the month ("Ultra"`: 1, "Smart"`: 0).
+-   `is_ultra`: which tariff the user used during the month ("Ultra": 1, "Smart": 0).
