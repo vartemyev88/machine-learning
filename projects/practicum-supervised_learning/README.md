@@ -1,4 +1,4 @@
-## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-supervised_learning/customer_churn.ipynb)
+## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-supervised_learning/churn.ipynb)
 
 ## ℹ Predicting Customer Churn for a Bank
 
