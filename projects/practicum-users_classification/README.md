@@ -1,10 +1,10 @@
-# [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-users_classification/users_classification.ipynb)
+## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-users_classification/users_classification.ipynb)
 
-# ℹ Recommendation of Tariffs
+## ℹ Recommendation of Tariffs
 
 The mobile operator has discovered that a significant number of its customers are still subscribed to outdated tariffs. In response, they aim to develop a system that can analyze customers' behavior patterns and suggest a suitable new tariff option to each user. Data provided by Yandex.Practicum.
 
-# 🛠 Skills & Tools
+## 🛠 Skills & Tools
 
 `Machine Learning`
 `Classification`
@@ -12,7 +12,7 @@ The mobile operator has discovered that a significant number of its customers ar
 `Exploratory Data Analysis`
 `matplotlib` `numpy` `pandas` `seaborn` `sklearn`
 
-# 💻 Data Description:
+## 💻 Data Description:
 
 -   `calls`: number of calls,
 -   `minutes`: total duration of calls in minutes,
