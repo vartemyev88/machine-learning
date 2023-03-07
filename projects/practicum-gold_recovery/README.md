@@ -1,4 +1,4 @@
-## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-integrated_project_2/gold_recovery.ipynb)
+## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-gold_recovery/gold_recovery.ipynb)
 
 ## ℹ Technological Process of Gold Purification
 

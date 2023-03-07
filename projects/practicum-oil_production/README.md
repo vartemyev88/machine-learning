@@ -1,4 +1,4 @@
-## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-ml_in_business/oil_production.ipynb)
+## [➡ Open this Notebook with nbviewer](https://nbviewer.org/github/vartemyev88/machine-learning/blob/main/projects/practicum-oil_production/oil_production.ipynb)
 
 ## ℹ Determining the Most Profitable Region for Oil Production
 
