@@ -3,6 +3,7 @@ Here are examples of both academic and practical projects in the fields of Machi
 
 | # | Title | Aim of project | Technology | Tools | Keywords |
 |--|--|--|--|--|--|
+| 7 | [Taxi Demand](https://github.com/vartemyev88/machine-learning/tree/main/projects/practicum-taxi_demand) | The task is to forecast the number of taxi orders. | `Machine Learning` | `Python` `CatBoost` `LightGBM` `Numpy` `Pandas` `scikit-learn` `seaborn` | time series, regression, forecasting |
 | 6 | [Car Price](https://github.com/vartemyev88/machine-learning/tree/main/projects/practicum-car_price) | Developing a recommendation system for car pricing based on its description. | `Machine Learning` | `Python` `CatBoost` `LightGBM` `Numpy` `Pandas` `scikit-learn` `seaborn` | gradient boosting, regression |
 | 5 | [Data Protection](https://github.com/vartemyev88/machine-learning/tree/main/projects/practicum-data_protection) | Development of a model for anonymizing personal data. | `Machine Learning` | `Python` `Numpy` `Pandas` `scikit-learn` `seaborn` | linear algebra, regression |
 | 4 | [Gold Purification](https://github.com/vartemyev88/machine-learning/tree/main/projects/practicum-gold_recovery) | Predict the concentration of gold during the gold purification process. | `Machine Learning` `Data Analysis` | `Python` `Matplotlib` `Numpy` `Pandas` `scikit-learn` `seaborn` | data analysis, regression, custom metrics |
